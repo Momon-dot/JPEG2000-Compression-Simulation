@@ -1,0 +1,10 @@
+1. Sebelum menjalankan program, install semua library yang dibutuhkan dengan menginstall library dengan menjalankan command "pip install -r requirements.txt"
+2. Jalankan program dari file "gui.py"
+
+Deskripsi :
+backend.py berisi pemanggulan funsgi-fungsi yang berisi proses JPEG2000
+gui.py berisi kode untuk antarmuka pengguna
+nt_toolbox berisi fungsi-fungsi yang berisi proses wavelet transform
+entropy_encode.py berisi fungsi yang digunakan untuk menencode secara arithmetic
+entropy_decode.py berisi fungsi yang digunakan untuk mendecode secara arithmetic
+scalar_de_qua.py berisi fungsi yang digunakan untuk mendequantisasi dan quantisasi secara scalar
